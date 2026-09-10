@@ -1,7 +1,7 @@
 # Power-BI-Data-Analysis-Project
-# 📊 App Insights Unlocked: Google Play Store App Analysis – Power BI
+#  App Insights Unlocked: Google Play Store App Analysis – Power BI
 
-## 📌 Project Overview
+##  Project Overview
 
 **App Insights Unlocked: A Data Analytics Challenge** is a data analysis project based on Google Play Store application data.
 
@@ -13,7 +13,7 @@ This project was completed using **Microsoft Power BI** to transform, analyze, v
 
 ---
 
-## 👥 Stakeholders
+## Stakeholders
 
 The analysis is relevant to the following stakeholders:
 
@@ -34,7 +34,7 @@ The stakeholder groups are defined in the original assignment document.
 
 ---
 
-# 🎯 Project Objectives
+#  Project Objectives
 
 The major objectives of this analysis are:
 
@@ -49,7 +49,7 @@ These objectives follow the project requirements provided in the assignment.
 
 ---
 
-# 📂 Dataset
+#  Dataset
 
 The project uses the **Google Play Store Apps dataset**.
 
@@ -79,7 +79,7 @@ The dataset contains information about applications available on the Google Play
 
 ## The columns and data dictionary are defined in the provided assignment document.
 
-# 🧹 Data Cleaning and Preparation
+#  Data Cleaning and Preparation
 
 Before performing the analysis, the dataset was prepared for visualization and analysis.
 
@@ -103,7 +103,7 @@ The cleaned data was then used to create calculated fields, measures, visualizat
 
 ---
 
-# 📊 Analysis Performed
+# Analysis Performed
 
 The project was divided into three levels:
 
@@ -115,7 +115,7 @@ All the questions specified in the assignment were completed.
 
 ---
 
-# 📈 Power BI Dashboard
+#  Power BI Dashboard
 
 The project was implemented and visualized using **Microsoft Power BI**.
 
@@ -138,7 +138,7 @@ The dashboard focuses on areas such as:
 
 ---
 
-# 💡 Key Business Insights
+#  Key Business Insights
 
 The analysis is designed to help stakeholders understand:
 
@@ -156,7 +156,7 @@ The specific numerical findings should be interpreted directly from the complete
 
 ---
 
-# 🛠️ Tools & Technologies
+#  Tools & Technologies
 
 | Tool                   | Purpose                             |
 | ---------------------- | ----------------------------------- |
@@ -169,7 +169,7 @@ The specific numerical findings should be interpreted directly from the complete
 
 ---
 
-# 📚 Project Learning Outcomes
+#  Project Learning Outcomes
 
 Through this project, I strengthened my practical understanding of:
 
@@ -187,7 +187,7 @@ Through this project, I strengthened my practical understanding of:
 
 ---
 
-# 💼 Business Value
+#  Business Value
 
 The analysis demonstrates how application data can be transformed into **actionable business insights**.
 
@@ -209,14 +209,14 @@ This type of analysis can help organizations make more informed decisions around
 
 ---
 
-# ⭐ Project Status
+#  Project Status
 
 **Completed**
 
 The Basic, Medium, and Advanced analytical questions specified in the project assignment have been completed using Power BI.
 
 
-# 👩‍💻 Author
+#  Author
 
 **Sonal Sharma**
 
